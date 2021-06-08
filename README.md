@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PiotrStrzalka
-- 👀 I’m interested in embedded, software architecture, electric motors, 3d printing
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on some embedded device
+- 👀 I’m interested in golang, software architecture, embedded systems, electric motors
+- 🌱 I’m currently learning golang and AWS
+- 💞️ I’m looking to collaborate on some IoT system
 - 📫 How to reach me pio.strzalka@gmail.com
 
 <!---
